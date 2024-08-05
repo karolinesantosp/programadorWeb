@@ -15,3 +15,46 @@ color: chartreuse;
 h1{
     color: darkgreen;
 }
+
+#conteudo-principal{
+background-color: rgb(0, 111, 139);
+padding: 10px;
+}
+
+.produto{
+    background-color: rgb(107, 91, 91);
+    margin: 10px;
+}
+
+img{
+    width: 200px;
+}
+
+#rodape{
+    background-color: fuchsia;
+
+}
+.azul{
+    font-size:30px;
+    color: bisque;
+}
+.conteudo{
+    border-color: chocolate;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.tamanho{
+    font-size: 5em;
+    font-family:'Courier New',Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    text-decoration: line-through;
+    background-image:url(download\ \(1\).jpg);
+}
+.fundo{
+    background-color: aquamarine;
+}
+
