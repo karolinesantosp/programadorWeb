@@ -1,0 +1,49 @@
+div{
+    padding-top: 30px;
+     padding-right: 20px;
+     padding-bottom: 10px;
+     padding-left: 50px;
+     padding: 100px;
+
+border: 150px;
+border-width: 100px;
+box-sizing:30px ;
+width:30px ;
+min-width:10px ;
+max-width: 20px;
+background-color: cadetblue;
+background: burlywood;
+background-clip: 10px ;
+
+margin:10px ;
+margin-top:25px ;
+margin-right: 15px;
+margin-bottom:15px ;
+margin-left:10px ;
+  
+box-sizing: ;
+width:1px ;
+min-width:1px ;
+max-width:2px ;
+height: 5px;
+min-height:6px ;
+max-height:7px ;
+}
+
+
+
+section{
+    box-sizing: border-box;
+    border: 1px solid blue;
+width: 1005px;
+float: left;
+}
+div{
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+}
+.left{
+    float: right;
+    background: cyan;
+}
